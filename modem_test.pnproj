@@ -1,0 +1,8 @@
+<Project name="testrom">
+    <Folder name="src">
+        <File path="dialup.c"/>
+    </Folder>
+    <File path="Makefile"/>
+    <File path="hdr.asm"/>
+    <File path="data.asm"/>
+</Project>
