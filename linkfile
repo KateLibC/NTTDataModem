@@ -1,0 +1,9 @@
+[objects]
+src/dialup.obj
+data.obj
+hdr.obj
+modem.obj
+c:\snesdev\pvsneslib\lib\crt0_snes.obj
+c:\snesdev\pvsneslib\lib\libc.obj
+c:\snesdev\pvsneslib\lib\libm.obj
+c:\snesdev\pvsneslib\lib\libtcc.obj

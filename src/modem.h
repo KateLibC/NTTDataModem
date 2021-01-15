@@ -1,3 +1,3 @@
-void readModem(u16 value);
+void readModem(void);
 
 void writeModem(u16 value);

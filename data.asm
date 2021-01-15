@@ -1,5 +1,4 @@
 .include "hdr.asm"
-.include "modem.asm"
 
 .section ".rodata1" superfree
 

@@ -45,3 +45,7 @@
   IRQBRK EmptyHandler
 .ENDEMUVECTOR
 
+.ramsection ".modemRW"
+    modemRead db
+    modemWrite db
+.ends
